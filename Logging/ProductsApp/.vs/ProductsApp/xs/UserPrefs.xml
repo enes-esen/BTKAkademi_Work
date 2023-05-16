@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{B7001A9E-ACB4-4CA0-BFDB-D7607DD2B7A3}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductsApp/Properties/launchSettings.json">
+    <Files>
+      <File FileName="ProductsApp/Properties/launchSettings.json" Line="32" Column="21" />
+      <File FileName="ProductsApp/Program.cs" Line="19" Column="12" />
+      <File FileName="ProductsApp/appsettings.json" Line="5" Column="40" />
+      <File FileName="ProductsApp/appsettings.Production.json" Line="4" Column="26" />
+      <File FileName="ProductsApp/appsettings.Development.json" Line="4" Column="31" />
+      <File FileName="ProductsApp/Controllers/ProductController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductsApp" expanded="True">
+            <Node name="ProductsApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ProductsApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
