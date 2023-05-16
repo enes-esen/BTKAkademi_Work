@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using BookDemo.Data;
 using BookDemo.Models;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookDemo.Controllers
@@ -117,7 +118,24 @@ namespace BookDemo.Controllers
             return NoContent();
         }
 
+        [HttpPatch("{id:int}")]
+        public IActionResult PartiallyUpdateOneBook([FromRoute(Name = "id")]int id,
+            [FromBody] JsonPatchDocument<Book> bookPatch)
+        {
+            //check entity
+            var entity = ApplicationContext
+                .Books
+                .Find(b => b.Id.Equals(id));
+            if (entity is null)
+            {
+                return NotFound();//404
+            }
 
+            //ApplyTo ile yapılan değişikliği yansıtırz.
+            bookPatch.ApplyTo(entity);
+            return NoContent(); //204
+
+        }
 
     }
 }
