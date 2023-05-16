@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/ModelWork/BookDemo/BookDemo.csproj": {}
+    "/Users/enesesen/Desktop/BTKAkademi_Work/BookDemo/BookDemo.csproj": {}
   },
   "projects": {
-    "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/ModelWork/BookDemo/BookDemo.csproj": {
+    "/Users/enesesen/Desktop/BTKAkademi_Work/BookDemo/BookDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/ModelWork/BookDemo/BookDemo.csproj",
+        "projectUniqueName": "/Users/enesesen/Desktop/BTKAkademi_Work/BookDemo/BookDemo.csproj",
         "projectName": "BookDemo",
-        "projectPath": "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/ModelWork/BookDemo/BookDemo.csproj",
+        "projectPath": "/Users/enesesen/Desktop/BTKAkademi_Work/BookDemo/BookDemo.csproj",
         "packagesPath": "/Users/enesesen/.nuget/packages/",
-        "outputPath": "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/ModelWork/BookDemo/obj/",
+        "outputPath": "/Users/enesesen/Desktop/BTKAkademi_Work/BookDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/enesesen/.nuget/NuGet/NuGet.Config"

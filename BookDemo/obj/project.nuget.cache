@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWwI0xASuXpiwahs0Q+SF/mbPsvRN6Ingbe8JvHoaXQavCpuE4KFjOvy2T8XNqAjOFZXh80qusGLiuwgFdT9uQ==",
+  "dgSpecHash": "oPC+bDETMYrOQHPUcpDPZ4rygwliTPyh7BDuIOKOXOQ2eGDREeQuH82o6Fovmm6vsLbSpI32WdVUrhWN0MRWWA==",
   "success": true,
-  "projectFilePath": "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/ModelWork/BookDemo/BookDemo.csproj",
+  "projectFilePath": "/Users/enesesen/Desktop/BTKAkademi_Work/BookDemo/BookDemo.csproj",
   "expectedPackageFiles": [
     "/Users/enesesen/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/enesesen/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
