@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "K07ww0FUeUimwbk2JlPgtzQg52PvahYm3LJF9fo3leowqJkpXr9cEIZBZ9j/9bbUQ5Cz5Uh9Q+kYG4PFThItfg==",
+  "success": true,
+  "projectFilePath": "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/basic/hello_world_cli/hello_world_cli.csproj",
+  "expectedPackageFiles": [
+    "/Users/enesesen/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

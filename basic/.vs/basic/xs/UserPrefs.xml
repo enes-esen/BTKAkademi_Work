@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{94CAAC58-D0AA-47B2-BFE4-5915A7855534}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldAPi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldAPi/Properties/launchSettings.json">
+    <Files>
+      <File FileName="HelloWorldAPi/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldAPi/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldAPi/Properties/launchSettings.json" Line="10" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="basic" expanded="True">
+            <Node name="HelloWorldAPi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hello__world__api__ui PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

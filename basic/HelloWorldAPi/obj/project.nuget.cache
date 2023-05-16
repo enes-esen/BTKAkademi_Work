@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QAO9BzFqOsuLN6nakl5K6GRTwtbKk5KLkS2JLz9/3uGlQDAG/CcqmiXVFdxwIftX9QxKMXYEYBTcdkl5ki72Ww==",
+  "success": true,
+  "projectFilePath": "/Users/enesesen/Desktop/BTK Akademi/ASP NET Core API/basic/HelloWorldAPi/HelloWorldAPi.csproj",
+  "expectedPackageFiles": [
+    "/Users/enesesen/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/enesesen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
