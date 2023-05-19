@@ -1,0 +1,7 @@
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfoInputs.cache
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.AssemblyInfo.cs
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.MvcApplicationPartsAssemblyInfo.cache
