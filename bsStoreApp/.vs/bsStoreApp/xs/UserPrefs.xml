@@ -1,26 +1,33 @@
 ﻿<Properties StartupConfiguration="{F4E6E753-E300-4BE2-A19D-F766C4581EC9}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Repositories/RepositoryContext.cs">
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Controllers/BookController.cs">
     <Files>
-      <File FileName="WebApi/Models/Book.cs" Line="13" Column="1" />
-      <File FileName="WebApi/Repositories/RepositoryContext.cs" Line="8" Column="3" />
+      <File FileName="WebApi/Controllers/BookController.cs" Line="24" Column="32" />
+      <File FileName="WebApi/Properties/launchSettings.json" Line="16" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="bsStoreApp" expanded="True">
-            <Node name="WebApi" expanded="True" selected="True">
-              <Node name="Repositories" expanded="True" />
+            <Node name="WebApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Config" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
