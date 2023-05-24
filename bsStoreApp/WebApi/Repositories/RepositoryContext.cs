@@ -1,6 +1,7 @@
 ﻿using System;
+using Entities.Models;
 using Microsoft.EntityFrameworkCore;
-using WebApi.Models;
+
 
 namespace WebApi.Repositories
 {

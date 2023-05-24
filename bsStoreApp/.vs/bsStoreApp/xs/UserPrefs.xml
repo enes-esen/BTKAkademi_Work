@@ -1,33 +1,33 @@
 ﻿<Properties StartupConfiguration="{F4E6E753-E300-4BE2-A19D-F766C4581EC9}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Controllers/BookController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Models/Book.cs">
     <Files>
       <File FileName="WebApi/Controllers/BookController.cs" Line="24" Column="32" />
-      <File FileName="WebApi/Properties/launchSettings.json" Line="16" Column="48" />
+      <File FileName="WebApi/Properties/launchSettings.json" />
+      <File FileName="Entities/Models/Book.cs" Line="8" Column="43" />
+      <File FileName="WebApi/Models/Book.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="bsStoreApp" expanded="True">
+            <Node name="Entities" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Book.cs" selected="True" />
+              </Node>
+            </Node>
             <Node name="WebApi" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="BookController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Repositories" expanded="True">
-                <Node name="Config" expanded="True" />
-              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Repositories FirstBuild="True" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>

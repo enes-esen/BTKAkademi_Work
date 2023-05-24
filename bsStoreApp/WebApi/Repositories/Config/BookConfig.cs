@@ -1,7 +1,8 @@
 ﻿using System;
+using Entities.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using WebApi.Models;
+
 
 namespace WebApi.Repositories
 {
