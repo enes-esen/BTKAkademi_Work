@@ -1,0 +1,15 @@
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/bin/Debug/net6.0/Repositories.deps.json
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/bin/Debug/net6.0/Repositories.dll
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/bin/Debug/net6.0/Repositories.pdb
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/bin/Debug/net6.0/Entities.dll
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/bin/Debug/net6.0/Entities.pdb
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.csproj.AssemblyReference.cache
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.AssemblyInfoInputs.cache
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.AssemblyInfo.cs
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.csproj.CopyComplete
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.dll
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/refint/Repositories.dll
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/Repositories.pdb
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/obj/Debug/net6.0/ref/Repositories.dll

@@ -251,6 +251,8 @@
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Entities.dll
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Repositories.dll
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Repositories.pdb
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Entities.pdb
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.csproj.AssemblyReference.cache
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/obj/Debug/net6.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig

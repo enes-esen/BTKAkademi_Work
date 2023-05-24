@@ -24,15 +24,14 @@
 
   <ItemGroup>
     <None Remove="Controllers\" />
-    <None Remove="Repositories\" />
-    <None Remove="Repositories\Config\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Repositories\" />
-    <Folder Include="Repositories\Config\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Repositories\Repositories.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
     <ProjectReference Include="..\Entities\Entities.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
