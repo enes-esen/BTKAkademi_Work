@@ -1,38 +1,25 @@
 ﻿<Properties StartupConfiguration="{F4E6E753-E300-4BE2-A19D-F766C4581EC9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/EFCore/RepositoryBase.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/Controllers/BookController.cs" relfile="WebApi/Controllers/BookController.cs" line="156" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Program.cs">
     <Files>
-      <File FileName="WebApi/Controllers/BookController.cs" Line="16" Column="36" />
-      <File FileName="WebApi/Properties/launchSettings.json" />
-      <File FileName="Entities/Models/Book.cs" Line="11" Column="1" />
-      <File FileName="Repositories/Contracts/IRepositoryBase.cs" Line="14" Column="3" />
-      <File FileName="Repositories/EFCore/RepositoryContext.cs" Line="20" Column="51" />
-      <File FileName="Repositories/EFCore/Config/BookConfig.cs" Line="21" Column="1" />
-      <File FileName="WebApi/Program.cs" Line="18" Column="1" />
-      <File FileName="Repositories/EFCore/RepositoryBase.cs" Line="10" Column="1" />
+      <File FileName="WebApi/Controllers/BookController.cs" Line="17" Column="6" />
+      <File FileName="WebApi/Extensions/ServicesExtensions.cs" Line="15" Column="64" />
+      <File FileName="WebApi/Program.cs" Line="21" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="bsStoreApp" expanded="True">
-            <Node name="Repositories" expanded="True">
-              <Node name="EFCore" expanded="True">
-                <Node name="Config" expanded="True" />
-                <Node name="RepositoryBase.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="WebApi" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="bsStoreApp" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>

@@ -8,6 +8,7 @@
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Humanizer.dll
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/MessagePack.dll
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/MessagePack.Annotations.dll
+/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/bin/Debug/net6.0/Microsoft.Build.dll
