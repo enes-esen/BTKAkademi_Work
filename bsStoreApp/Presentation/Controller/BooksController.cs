@@ -1,24 +1,19 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System;
 using Entities.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
-using Repositories.Contracts;
-using Repositories.EFCore;
 using Services.Contracts;
 
-namespace WebApi.Controllers
+namespace Presentation.Controller
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class BookController : ControllerBase
-    {
+	[ApiController]
+	[Route("api/books")]
+	public class BooksController :ControllerBase
+	{
+
         private readonly IServiceManager _manager;
 
-        public BookController(IServiceManager manager)
+        public BooksController(IServiceManager manager)
         {
             _manager = manager;
         }
@@ -109,7 +104,7 @@ namespace WebApi.Controllers
             {
                 //Silme işlemi
                 _manager.BookService.DeleteOneBook(id, false);
-                
+
                 return NoContent();
             }
             catch (Exception ex)
@@ -145,6 +140,6 @@ namespace WebApi.Controllers
                 throw new Exception(ex.Message);
             }
         }
-
     }
 }
+

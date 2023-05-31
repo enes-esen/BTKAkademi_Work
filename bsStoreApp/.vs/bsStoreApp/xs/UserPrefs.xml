@@ -1,43 +1,20 @@
 ﻿<Properties StartupConfiguration="{F4E6E753-E300-4BE2-A19D-F766C4581EC9}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/Contracts/IServiceManager.cs" relfile="Services/Contracts/IServiceManager.cs" line="6" column="1" />
-      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/Contracts/IBookService.cs" relfile="Services/Contracts/IBookService.cs" line="8" column="1" />
-      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/Contracts/IRepositoryManager.cs" relfile="Repositories/Contracts/IRepositoryManager.cs" line="6" column="1" />
-      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/Contracts/IRepositoryManager.cs" relfile="Repositories/Contracts/IRepositoryManager.cs" line="7" column="1" />
-      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/WebApi/Controllers/BookController.cs" relfile="WebApi/Controllers/BookController.cs" line="28" column="1" />
-      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/ServiceManager.cs" relfile="Services/ServiceManager.cs" line="16" column="1" />
-      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/ServiceManager.cs" relfile="Services/ServiceManager.cs" line="12" column="1" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Repositories/EFCore/RepositoryManager.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/Program.cs">
     <Files>
-      <File FileName="Services/Contracts/IBookService.cs" Line="8" Column="17" />
-      <File FileName="Services/BookManager.cs" Line="10" Column="35" />
-      <File FileName="Repositories/Contracts/IRepositoryManager.cs" Line="10" Column="2" />
-      <File FileName="Repositories/EFCore/RepositoryManager.cs" Line="19" Column="31" />
-      <File FileName="Repositories/Contracts/IBookRepository.cs" Line="6" Column="24" />
-      <File FileName="WebApi/Extensions/ServicesExtensions.cs" Line="22" Column="74" />
-      <File FileName="WebApi/Program.cs" Line="33" Column="1" />
-      <File FileName="Repositories/EFCore/RepositoryContext.cs" Line="12" Column="1" />
-      <File FileName="Services/ServiceManager.cs" Line="10" Column="57" />
-      <File FileName="WebApi/Controllers/BookController.cs" Line="21" Column="40" />
-      <File FileName="Repositories/Contracts/IRepositoryBase.cs" Line="8" Column="9" />
-      <File FileName="Repositories/EFCore/RepositoryBase.cs" Line="20" Column="28" />
-      <File FileName="Repositories/EFCore/BookRepository.cs" Line="10" Column="4" />
+      <File FileName="Presentation/Class1.cs" Line="5" Column="2" />
+      <File FileName="Presentation/Controller/BooksController.cs" Line="111" Column="14" />
+      <File FileName="WebApi/Program.cs" Line="19" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="bsStoreApp" expanded="True">
             <Node name="Repositories" expanded="True">
-              <Node name="Contracts" expanded="True" />
-              <Node name="EFCore" expanded="True">
-                <Node name="RepositoryManager.cs" selected="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
             </Node>
-            <Node name="Services" expanded="True" />
-            <Node name="WebApi" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -45,6 +22,14 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/Contracts/IServiceManager.cs" relfile="Services/Contracts/IServiceManager.cs" line="6" column="1" />
+      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/Contracts/IBookService.cs" relfile="Services/Contracts/IBookService.cs" line="8" column="1" />
+      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/Contracts/IBookRepository.cs" relfile="Repositories/Contracts/IBookRepository.cs" line="8" column="1" />
+      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/Contracts/IRepositoryBase.cs" relfile="Repositories/Contracts/IRepositoryBase.cs" line="9" column="1" />
+      <Breakpoint file="/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/Contracts/IRepositoryManager.cs" relfile="Repositories/Contracts/IRepositoryManager.cs" line="6" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
