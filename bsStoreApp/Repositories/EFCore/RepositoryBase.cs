@@ -10,7 +10,7 @@ namespace Repositories.EFCore
     {
         protected readonly RepositoryContext _context;
 
-        protected RepositoryBase(RepositoryContext context)
+        public RepositoryBase(RepositoryContext context)
         {
             _context = context;
         }

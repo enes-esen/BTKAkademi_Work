@@ -3692,6 +3692,20 @@
         "runtime": {
           "bin/placeholder/Repositories.dll": {}
         }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -10576,6 +10590,11 @@
       "type": "project",
       "path": "../Repositories/Repositories.csproj",
       "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -10589,6 +10608,7 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.13",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.8",
       "Repositories >= 1.0.0",
+      "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -10623,6 +10643,9 @@
             },
             "/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/Repositories.csproj": {
               "projectPath": "/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Repositories/Repositories.csproj"
+            },
+            "/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/Services.csproj": {
+              "projectPath": "/Users/enesesen/Desktop/BTKAkademi_Work/bsStoreApp/Services/Services.csproj"
             }
           }
         }
